@@ -1,0 +1,12 @@
+
+Using libraries :- opencv-python
+		           ultralytics
+                   torch
+                   numpy (Optional, but recommended)
+
+Install above libraries :- pip install opencv-python
+                           pip install ultralytics
+                           pip install torch
+                           pip install numpy
+
+
